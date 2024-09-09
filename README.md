@@ -3,7 +3,7 @@
 This study investigates the potential performance benefits of diversification within a factor-based portfolio framework. We compare the performance of a diversified portfolio to an equally weighted allocation of factor-based portfolios.
 
 ## Data Aquisition
-We utilize factor-based portfolio data from JKP Factors (https://jkpfactors.com/), focusing on US markets (*).
+We utilize factor-based portfolio data from [JKP Factors](https://jkpfactors.com/), focusing on US markets (*).
 
 ## Reading process
 
